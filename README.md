@@ -1,6 +1,6 @@
 ### Hi there, I'm Ahmed! 👋
 
-![Banner](https://user-images.githubusercontent.com/your-username/banner.png)
+![Banner](https://user-images.githubusercontent.com/AhmedKhemissa/banner.png)
 
 # 💫 About Me:
 I’m Ahmed, a computer science student at USTHB, passionate about Artificial Intelligence, Natural Language Processing, and Software Development. I thrive on solving complex problems, building innovative solutions, and leveraging data for smarter decision-making.<br><br>
