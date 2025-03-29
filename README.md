@@ -44,15 +44,6 @@ Beyond coding, I have a keen interest in investment strategies and project manag
 
 ---
 
-### 📊 GitHub Stats:
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedKhemissa&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhemissa&layout=compact&theme=radical)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AhmedKhemissa&theme=radical&hide_border=true)
-
----
 
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedkhemissa)  
@@ -61,4 +52,3 @@ Beyond coding, I have a keen interest in investment strategies and project manag
 
 [![](https://visitcount.itsvg.in/api?id=AhmedKhemissa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-💬 **Let's talk about AI, NLP, and cool tech projects!** 🚀
