@@ -11,9 +11,8 @@ Beyond coding, I have a keen interest in investment strategies and project manag
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedkhemissa/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khemissaahmed28@gmail.com)
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedkhemissa) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khemissaahmed28@gmail.com)
 
 ---
 
@@ -69,11 +68,6 @@ Beyond coding, I have a keen interest in investment strategies and project manag
 ![](https://nirzak-streak-stats.vercel.app/?user=AhmedKhemissa&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AhmedKhemissa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedkhemissa) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khemissaahmed28@gmail.com)
 
 [![](https://visitcount.itsvg.in/api?id=AhmedKhemissa&icon=0&color=0)](https://visitcount.itsvg.in)
 
