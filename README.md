@@ -15,7 +15,7 @@ Software Engineer with 3 years of hands-on experience in full-stack AI solutions
 
 ## 🚀 Current Work
 
-**Software Engineer (Python)** @ ThriveTech Solutions  
+**Software Engineer ** @ ObserveOne
 Building scalable backend systems, automation solutions, and AI-powered applications using FastAPI, Django, and cutting-edge LLM technologies.
 
 ---
